@@ -27,7 +27,7 @@ public class SecurityUtil {
 
     public static void main(String[] args) {
         try {
-            String originalString = "123456789";
+            String originalString = "11111111111";
             SecretKey secretKey = generateKey();
 
             System.out.println("Original: " + originalString);
